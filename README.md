@@ -10,7 +10,18 @@ En este GitHub documento proyectos que resuelven problemas concretos y muestran 
 
 ### Tecnologías con las que trabajo
 
-**WordPress · HTML · CSS · PHP · JavaScript · IA**
+<table>
+  <tr>
+    <td align="center" width="140"><img src="assets/icons/wordpress.svg" alt="" width="42" height="42"><br><strong>WordPress</strong></td>
+    <td align="center" width="140"><img src="assets/icons/html5.svg" alt="" width="42" height="42"><br><strong>HTML</strong></td>
+    <td align="center" width="140"><img src="assets/icons/css.svg" alt="" width="42" height="42"><br><strong>CSS</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/php.svg" alt="" width="42" height="42"><br><strong>PHP</strong></td>
+    <td align="center"><img src="assets/icons/javascript.svg" alt="" width="42" height="42"><br><strong>JavaScript</strong></td>
+    <td align="center"><img src="assets/icons/ia.svg" alt="" width="42" height="42"><br><strong>IA</strong></td>
+  </tr>
+</table>
 
 También trabajo con Elementor / Theme Builder y WooCommerce. Aplico hooks, `WP_Query` y personalizaciones con PHP, y exploro la IA para crear soluciones web. Estoy profundizando en JavaScript y PHP para avanzar hacia el desarrollo de themes, plugins e integraciones.
 
