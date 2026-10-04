@@ -25,10 +25,12 @@ En este GitHub documento proyectos que resuelven problemas concretos y muestran 
 
 También trabajo con Elementor / Theme Builder y WooCommerce. Aplico hooks, `WP_Query` y personalizaciones con PHP, y exploro la IA para crear soluciones web. Estoy profundizando en JavaScript y PHP para avanzar hacia el desarrollo de themes, plugins e integraciones.
 
-### Proyecto destacado
+### Proyectos
 
-**[Eudai Informes](https://github.com/JeremiasHiltPeletti/eudai-informes-web)** — aplicación web para redactar informes profesionales, previsualizarlos en A4 y descargarlos como PDF. Incluye validación, historial local y exportación de respaldos. [Ver la aplicación](https://eudai-informes.netlify.app/#/).
+- **[Eudai Informes](https://github.com/JeremiasHiltPeletti/eudai-informes-web)** — aplicación web para redactar informes profesionales, previsualizarlos en A4 y descargarlos como PDF. Incluye validación, historial local y exportación de respaldos. [Ver la aplicación](https://eudai-informes.netlify.app/#/).
+- **[Farmacia del Este](https://github.com/JeremiasHiltPeletti/Farmacia-del-Este)** — aplicación web para organizar tareas, calendario, avisos, productos y pedidos de un equipo de farmacia. El repositorio presenta una versión demostrativa con datos guardados en el navegador. [Ver el caso de estudio](https://jeremiashiltpeletti.com/farmacia-del-este/).
 
 ### Encontrame en
 
 🌐 **[Mi portfolio](https://jeremiashiltpeletti.com/)** — trabajos, servicios y contacto.
+
