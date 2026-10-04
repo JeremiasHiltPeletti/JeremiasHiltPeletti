@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jeremías Hilt Peletti</title>
+  <desc id="desc">Desarrollo WordPress y aplicaciones web</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2628"/>
+      <stop offset="1" stop-color="#193e3c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6ab70"/>
+      <stop offset="1" stop-color="#e9855b"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#b7d9c7" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="round"><rect width="1280" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+    <circle cx="1138" cy="-42" r="278" fill="#d9ebd1" opacity=".045"/>
+    <circle cx="1180" cy="292" r="186" fill="#ed9a68" opacity=".07"/>
+    <path d="M0 309H1280" stroke="#f6ab70" stroke-opacity=".28" stroke-width="2"/>
+    <rect x="70" y="68" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="70" y="139" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1" fill="#f8f5ed">Jeremías Hilt Peletti</text>
+    <text x="72" y="194" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#bcd3c8">Desarrollo WordPress · Aplicaciones web</text>
+    <rect x="70" y="232" width="126" height="32" rx="16" fill="#f6ab70" fill-opacity=".14" stroke="#f6ab70" stroke-opacity=".42"/>
+    <text x="133" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#f8bd8c">WORDPRESS</text>
+    <rect x="207" y="232" width="85" height="32" rx="16" fill="#d0ead9" fill-opacity=".09" stroke="#d0ead9" stroke-opacity=".25"/>
+    <text x="249" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#cee3d7">PHP</text>
+    <rect x="303" y="232" width="116" height="32" rx="16" fill="#d0ead9" fill-opacity=".09" stroke="#d0ead9" stroke-opacity=".25"/>
+    <text x="361" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#cee3d7">JAVASCRIPT</text>
+    <rect x="430" y="232" width="66" height="32" rx="16" fill="#d0ead9" fill-opacity=".09" stroke="#d0ead9" stroke-opacity=".25"/>
+    <text x="463" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#cee3d7">IA</text>
+    <g transform="translate(886 54) rotate(-8 150 108)">
+      <rect x="0" y="0" width="326" height="216" rx="16" fill="#0c2225" stroke="#85a99c" stroke-opacity=".42"/>
+      <rect x="0" y="0" width="326" height="35" rx="16" fill="#294746"/>
+      <path d="M0 20v15h326V20" fill="#294746"/>
+      <circle cx="23" cy="18" r="4" fill="#f6ab70"/><circle cx="39" cy="18" r="4" fill="#a2c8ad"/><circle cx="55" cy="18" r="4" fill="#749e9a"/>
+      <text x="29" y="82" font-family="Menlo, Consolas, monospace" font-size="19" fill="#f6ab70">&lt;idea&gt;</text>
+      <text x="51" y="117" font-family="Menlo, Consolas, monospace" font-size="16" fill="#cee3d7">problema → solución</text>
+      <text x="29" y="152" font-family="Menlo, Consolas, monospace" font-size="19" fill="#f6ab70">&lt;/idea&gt;</text>
+      <path d="M29 181h143" stroke="#729e94" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+    </g>
+  </g>
+</svg>
