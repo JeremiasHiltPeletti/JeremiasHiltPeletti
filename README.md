@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jeremías Hilt Peletti · Desarrollo WordPress y aplicaciones web" width="100%">
+  <img src="assets/banner.svg" alt="Jeremias Hilt Peletti · Desarrollo WordPress y aplicaciones web" width="100%">
 </p>
 
-## Hola, soy Jeremías 👋
+## Hola, soy Jeremias 👋
 
 Desarrollo sitios y soluciones web con foco en **WordPress**. Me interesa entender cómo funciona por dentro para construir funcionalidades propias, además de crear interfaces claras y útiles para quienes las usan.
 
