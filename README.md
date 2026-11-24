@@ -28,7 +28,7 @@ También trabajo con Elementor / Theme Builder y WooCommerce. Aplico hooks, `WP_
 ### Proyectos
 
 - **[Eudai Informes](https://github.com/JeremiasHiltPeletti/eudai-informes-web)** — aplicación web para redactar informes profesionales, previsualizarlos en A4 y descargarlos como PDF. Sin backend ni base de datos: valida los datos, compone el documento y lo pagina en el navegador, sin almacenar los informes. [Ver la aplicación](https://eudai-informes.netlify.app/#/).
-- **[Farmacia del Este](https://github.com/JeremiasHiltPeletti/Farmacia-del-Este)** — aplicación web para organizar tareas, calendario, avisos, productos y pedidos de un equipo de farmacia. El repositorio presenta una versión demostrativa con datos guardados en el navegador. [Ver el caso de estudio](https://jeremiashiltpeletti.com/farmacia-del-este/).
+- **[Farmacia del Este](https://github.com/JeremiasHiltPeletti/Farmacia-del-Este)** — aplicación web para organizar tareas, calendario, avisos, productos y pedidos de un equipo de farmacia. El repositorio presenta una versión demostrativa con datos guardados en el navegador. [Ver la aplicación](https://farmacia-del-este-demo.netlify.app/).
 
 ### Encontrame en
 
